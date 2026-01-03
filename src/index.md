@@ -2,16 +2,19 @@
 layout: home
 
 hero:
-  name: 'Dadu 知识库'
-  text: '等风来，不如追风去。'
+  name: "Dadu 知识库"
+  text: "等风来，不如追风去。"
   tagline: 明日复明日，明日何其多。
   actions:
     - theme: brand
-      text: 学习笔记
-      link: /Notes/Typescript/one
+      text: 前端笔记
+      link: /Notes/Frontend/React/Start
     - theme: alt
-      text: 代码片段
-      link: /Snippets/one
+      text: 后端笔记
+      link: /Notes/Backend/Java/Start
+    - theme: alt
+      text: 面试题
+      link: /Interview/HTTP
 ---
 
 <style>

@@ -109,10 +109,10 @@ export default function App() {
 ```
 ::: tip 注意
 直接使用`let count = 0`这样数据不是响应式的，即使改变了count的值，页面也不会随之改变。
-需要使用`useState`钩子来创建响应式数据。详情请到[useState](/Notes/React/Hooks#usestate)。
+需要使用`useState`钩子来创建响应式数据。详情请到[useState](/Notes/Frontend/React/Hooks#usestate)。
 :::
 
 ## 祖先后代通信
 实际项目中，组件嵌套层级过多，如果还使用props就得自上向下逐层传递，麻烦又难以维护，
 react给我提供了一个`useContext`钩子，完美的解决了这个问题。
-详情请到[useContext](/Notes/React/Hooks#usecontext)。
+详情请到[useContext](/Notes/Frontend/React/Hooks#usecontext)。
