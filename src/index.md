@@ -11,7 +11,7 @@ hero:
       link: /Notes/Frontend/React/Start
     - theme: alt
       text: 后端笔记
-      link: /Notes/Backend/Java/Start
+      link: /Notes/Backend/Java/JavaSE/Start
     - theme: alt
       text: 面试题
       link: /Interview/HTTP
