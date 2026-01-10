@@ -63,6 +63,10 @@ export const sidebar = {
           text: "Start",
           link: "/Notes/Backend/Java/SpringBoot/Start",
         },
+        {
+          text: "配置文件",
+          link: "/Notes/Backend/Java/SpringBoot/配置文件",
+        },
       ],
     },
     {

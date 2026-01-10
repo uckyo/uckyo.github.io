@@ -1,5 +1,7 @@
 # Spring Boot 快速入门
 
+Spring Boot 是 Spring 框架的一个子项目，设计目的是为了简化 Spring 应用的初始搭建和开发过程。通过自动配置、内嵌服务器和 starter 依赖等特性，Spring Boot 大大减少了配置文件的编写，让开发者能够更专注于业务逻辑的实现，从而提高开发效率。
+
 ## 环境要求
 
 - Java 17 或更高版本
@@ -48,7 +50,7 @@ public class HealthController {
 
 ## 测试
 
-访问 `http://localhost:8080/greeting` 或 `http://localhost:8080/greeting?name=User` 查看结果
+访问 `http://localhost:8080/health`查看结果
 
 ## 总结
 
