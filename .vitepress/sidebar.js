@@ -50,8 +50,64 @@ export const sidebar = {
       collapsed: true,
       items: [
         {
-          text: "Start",
-          link: "/Notes/Backend/Java/JavaSE/Start",
+          text: "快速开始",
+          link: "/Notes/Backend/Java/JavaSE/快速开始",
+        },
+        {
+          text: "基础语法",
+          link: "/Notes/Backend/Java/JavaSE/基础语法",
+        },
+        {
+          text: "数组",
+          link: "/Notes/Backend/Java/JavaSE/数组",
+        },
+        {
+          text: "类和对象",
+          link: "/Notes/Backend/Java/JavaSE/类和对象",
+        },
+        {
+          text: "类的封装",
+          link: "/Notes/Backend/Java/JavaSE/类的封装",
+        },
+        {
+          text: "类的继承",
+          link: "/Notes/Backend/Java/JavaSE/类的继承",
+        },
+        {
+          text: "类的多态",
+          link: "/Notes/Backend/Java/JavaSE/类的多态",
+        },
+        {
+          text: "内部类",
+          link: "/Notes/Backend/Java/JavaSE/内部类",
+        },
+        {
+          text: "Lambda表达式",
+          link: "/Notes/Backend/Java/JavaSE/Lambda表达式",
+        },
+        {
+          text: "方法引用",
+          link: "/Notes/Backend/Java/JavaSE/方法引用",
+        },
+        {
+          text: "集合",
+          link: "/Notes/Backend/Java/JavaSE/集合",
+        },
+        {
+          text: "异常",
+          link: "/Notes/Backend/Java/JavaSE/异常",
+        },
+        {
+          text: "多线程",
+          link: "/Notes/Backend/Java/JavaSE/多线程",
+        },
+        {
+          text: "反射",
+          link: "/Notes/Backend/Java/JavaSE/反射",
+        },
+        {
+          text: "动态代理",
+          link: "/Notes/Backend/Java/JavaSE/动态代理",
         },
       ],
     },
