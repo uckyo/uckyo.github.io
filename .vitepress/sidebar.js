@@ -5,28 +5,28 @@ export const sidebar = {
       text: "React",
       collapsed: true,
       items: [
-        {text: "Start", link: "/Notes/Frontend/React/Start"},
-        {text: "JSX", link: "/Notes/Frontend/React/JSX"},
-        {text: "Component", link: "/Notes/Frontend/React/Component"},
-        {text: "Hooks", link: "/Notes/Frontend/React/Hooks"},
-        {text: "Redux", link: "/Notes/Frontend/React/Redux"},
-        {text: "React-Redux", link: "/Notes/Frontend/React/React-Redux"},
+        { text: "Start", link: "/Notes/Frontend/React/Start" },
+        { text: "JSX", link: "/Notes/Frontend/React/JSX" },
+        { text: "Component", link: "/Notes/Frontend/React/Component" },
+        { text: "Hooks", link: "/Notes/Frontend/React/Hooks" },
+        { text: "Redux", link: "/Notes/Frontend/React/Redux" },
+        { text: "React-Redux", link: "/Notes/Frontend/React/React-Redux" },
       ],
     },
     {
       text: "Typescript",
       collapsed: true,
       items: [
-        {text: "one", link: "/Notes/Frontend/Typescript/one"},
-        {text: "two", link: "/Notes/Frontend/Typescript/two"},
+        { text: "one", link: "/Notes/Frontend/Typescript/one" },
+        { text: "two", link: "/Notes/Frontend/Typescript/two" },
       ],
     },
     {
       text: "Electron",
       collapsed: true,
       items: [
-        {text: "one", link: "/Notes/Frontend/Electron/one"},
-        {text: "two", link: "/Notes/Frontend/Electron/two"},
+        { text: "one", link: "/Notes/Frontend/Electron/one" },
+        { text: "two", link: "/Notes/Frontend/Electron/two" },
       ],
     },
     {
@@ -52,6 +52,16 @@ export const sidebar = {
         {
           text: "Start",
           link: "/Notes/Backend/Java/JavaSE/Start",
+        },
+      ],
+    },
+    {
+      text: "SpringBoot",
+      collapsed: true,
+      items: [
+        {
+          text: "Start",
+          link: "/Notes/Backend/Java/SpringBoot/Start",
         },
       ],
     },
