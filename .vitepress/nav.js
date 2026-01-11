@@ -11,13 +11,13 @@ export const nav = [
     ],
   },
   {
-      text: "后端",
-      items: [
-        { text: "JavaSE", link: "/Notes/Backend/Java/JavaSE/快速开始" },
-        { text: "SpringAI", link: "/Notes/Backend/Java/SpringAI/Start" },
-        { text: "SpringBoot", link: "/Notes/Backend/Java/SpringBoot/Start" },
-      ],
-    },
+    text: "后端",
+    items: [
+      { text: "JavaSE", link: "/Notes/Backend/Java/JavaSE/快速开始" },
+      { text: "SpringAI", link: "/Notes/Backend/Java/SpringAI/Start" },
+      { text: "SpringBoot", link: "/Notes/Backend/Java/SpringBoot/Start" },
+    ],
+  },
   {
     text: "算法",
     link: "/Notes/Algorithm/Start",
@@ -28,6 +28,6 @@ export const nav = [
   },
   {
     text: "代码片段",
-    link: "/Snippets/one",
+    items: [{ text: "Java", link: "/Snippets/Java/通用基础代码" }],
   },
 ];

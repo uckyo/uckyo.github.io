@@ -138,12 +138,14 @@ export const sidebar = {
   ],
   "/Snippets/": [
     {
-      text: "one",
-      link: "/Snippets/one",
-    },
-    {
-      text: "two",
-      link: "/Snippets/two",
+      text: "Java",
+      collapsed: true,
+      items: [
+        {
+          text: "通用基础代码",
+          link: "/Snippets/Java/通用基础代码",
+        },
+      ],
     },
   ],
   "/Interview/": [
